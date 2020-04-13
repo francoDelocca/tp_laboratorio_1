@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586817593 source:c:\users\franquito\desktop\prog utn 1g\trabajopractico\trabajopractico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"delocca.h"
+
+1586817484 c:\users\franquito\desktop\prog utn 1g\trabajopractico\trabajopractico\delocca.h
+
+1586817532 source:c:\users\franquito\desktop\prog utn 1g\trabajopractico\trabajopractico\delocca.c
+	"delocca.h"
+	<stdio.h>
+
