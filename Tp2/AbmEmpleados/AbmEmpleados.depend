@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1589641982 source:d:\eze\utn\laboratorio 1\abmempleados\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validation.h"
+
+1589642781 d:\eze\utn\laboratorio 1\abmempleados\validation.h
+
+1589643229 source:d:\eze\utn\laboratorio 1\abmempleados\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1589642585 d:\eze\utn\laboratorio 1\abmempleados\arrayemployees.h
+
+1589643203 source:d:\eze\utn\laboratorio 1\abmempleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"Validation.h"
+
+1589643229 source:d:\eze\utn\laboratorio 1\tp_laboratorio_1\tp2\abmempleados\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1589642585 d:\eze\utn\laboratorio 1\tp_laboratorio_1\tp2\abmempleados\arrayemployees.h
+
+1589643203 source:d:\eze\utn\laboratorio 1\tp_laboratorio_1\tp2\abmempleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"Validation.h"
+
+1589642781 d:\eze\utn\laboratorio 1\tp_laboratorio_1\tp2\abmempleados\validation.h
+
+1589641982 source:d:\eze\utn\laboratorio 1\tp_laboratorio_1\tp2\abmempleados\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validation.h"
+

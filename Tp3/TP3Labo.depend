@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1592062899 source:d:\eze\utn\laboratorio 1\tp3labo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Validation.h"
+
+1590767427 d:\eze\utn\laboratorio 1\tp3labo\linkedlist.h
+
+1592007541 d:\eze\utn\laboratorio 1\tp3labo\employee.h
+
+1561499216 d:\eze\utn\laboratorio 1\tp3labo\parser.h
+
+1592061894 source:d:\eze\utn\laboratorio 1\tp3labo\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1592008145 source:d:\eze\utn\laboratorio 1\tp3labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1591982387 d:\eze\utn\laboratorio 1\tp3labo\controller.h
+
+1592008033 source:d:\eze\utn\laboratorio 1\tp3labo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1591981162 source:d:\eze\utn\laboratorio 1\tp3labo\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validation.h"
+
+1591981656 d:\eze\utn\laboratorio 1\tp3labo\validation.h
+
+1592061894 source:d:\eze\utn\laboratorio 1\tp3\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1592007541 d:\eze\utn\laboratorio 1\tp3\employee.h
+
+1592008145 source:d:\eze\utn\laboratorio 1\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1590767427 d:\eze\utn\laboratorio 1\tp3\linkedlist.h
+
+1591982387 d:\eze\utn\laboratorio 1\tp3\controller.h
+
+1592008033 source:d:\eze\utn\laboratorio 1\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1591981162 source:d:\eze\utn\laboratorio 1\tp3\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validation.h"
+
+1591981656 d:\eze\utn\laboratorio 1\tp3\validation.h
+
